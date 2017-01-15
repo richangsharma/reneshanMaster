@@ -1,0 +1,39 @@
+{
+  "Images": [
+    {
+      "imageURL": "img/heart.jpg",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/home.jpg",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/leaf.jpg",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/magic.jpg",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/3.jpg",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/smal right contour.jpg",
+      "target": "none",
+      "text": ""
+    },
+    {
+      "imageURL": "img/clock 3.jpg",
+      "target": "none",
+      "text": ""
+    }
+  ]
+}
